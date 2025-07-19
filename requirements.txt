@@ -3,3 +3,4 @@ uvicorn
 pydantic
 dnspython
 disposable-email-domains
+email-validator
