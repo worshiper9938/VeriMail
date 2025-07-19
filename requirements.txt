@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-pydantic
+pydantic[email]
 dnspython
 disposable-email-domains
 email-validator
